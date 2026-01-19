@@ -1,0 +1,10 @@
+C:\Users\cecilie\source\repos\On Screen Keyboard\On Screen Keyboard\bin\Debug\On Screen Keyboard.exe.config
+C:\Users\cecilie\source\repos\On Screen Keyboard\On Screen Keyboard\bin\Debug\On Screen Keyboard.exe
+C:\Users\cecilie\source\repos\On Screen Keyboard\On Screen Keyboard\bin\Debug\On Screen Keyboard.pdb
+C:\Users\cecilie\source\repos\On Screen Keyboard\On Screen Keyboard\obj\Debug\On Screen Keyboard.csproj.AssemblyReference.cache
+C:\Users\cecilie\source\repos\On Screen Keyboard\On Screen Keyboard\obj\Debug\On_Screen_Keyboard.Form1.resources
+C:\Users\cecilie\source\repos\On Screen Keyboard\On Screen Keyboard\obj\Debug\On_Screen_Keyboard.Properties.Resources.resources
+C:\Users\cecilie\source\repos\On Screen Keyboard\On Screen Keyboard\obj\Debug\On Screen Keyboard.csproj.GenerateResource.cache
+C:\Users\cecilie\source\repos\On Screen Keyboard\On Screen Keyboard\obj\Debug\On Screen Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\cecilie\source\repos\On Screen Keyboard\On Screen Keyboard\obj\Debug\On Screen Keyboard.exe
+C:\Users\cecilie\source\repos\On Screen Keyboard\On Screen Keyboard\obj\Debug\On Screen Keyboard.pdb
