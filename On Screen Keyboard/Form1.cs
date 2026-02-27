@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -805,7 +805,7 @@ namespace On_Screen_Keyboard
 
         private void button70_Click(object sender, EventArgs e)
         {
-            Process.Start("C:\\Users\\cecilie\\AppData\\Local\\Discord\\app-1.0.9037\\discord.exe");
+            Process.Start("C:\\Users\\xxxx\\AppData\\Local\\Discord\\app-1.0.9037\\discord.exe");
         }
 
         private void button73_Click(object sender, EventArgs e)
